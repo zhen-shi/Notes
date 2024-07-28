@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "0803af991f79ab2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc49f0d6a903314a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4295849bcf2d6f3c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2485c70971c758a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "游戏/血源诅咒/资料.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "577b54fbeb91f3b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d89a2571c1e6c2d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57a3aebe61c0750b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "083de6fa29086462",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa501b421ffdeb62",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b3916818674d683b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eb485dc50afb805",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a5436b2ef54ddba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "游戏/血源诅咒/资料.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5890fab4dd85d1b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "游戏/血源诅咒/资料.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9fbadc21471a671f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e6ac39665423c107",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "游戏/血源诅咒/资料.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d2485c70971c758a",
+  "lastOpenFiles": [
+    "游戏/血源诅咒/笔记.md",
+    "index.md",
+    "about.md",
+    "Game/Bloodborne.md"
+  ]
+}
